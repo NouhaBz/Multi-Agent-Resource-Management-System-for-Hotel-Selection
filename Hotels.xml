@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotels>
+    <hotel>
+        <name>City Inn</name>
+        <location>Paris</location>
+        <cost>120</cost>
+        <roomsAvailable>5</roomsAvailable>
+        <responseTime>2</responseTime>
+        <roomType>Single</roomType>
+        <date>2024-12-01</date>
+        <numberOfGuests>2</numberOfGuests>
+    </hotel>
+    <hotel>
+        <name>Ocean View Hotel</name>
+        <location>Miami</location>
+        <cost>200</cost>
+        <roomsAvailable>3</roomsAvailable>
+        <responseTime>1</responseTime>
+        <roomType>Suite</roomType>
+        <date>2024-12-01</date>
+        <numberOfGuests>4</numberOfGuests>
+    </hotel>
+    <hotel>
+        <name>Mountain Retreat</name>
+        <location>Denver</location>
+        <cost>150</cost>
+        <roomsAvailable>8</roomsAvailable>
+        <responseTime>3</responseTime>
+        <roomType>Double</roomType>
+        <date>2024-12-01</date>
+        <numberOfGuests>2</numberOfGuests>
+    </hotel>
+    <hotel>
+        <name>Sunset Bay</name>
+        <location>California</location>
+        <cost>180</cost>
+        <roomsAvailable>2</roomsAvailable>
+        <responseTime>1</responseTime>
+        <roomType>Suite</roomType>
+        <date>2024-12-05</date>
+        <numberOfGuests>3</numberOfGuests>
+    </hotel>
+    <hotel>
+        <name>Urban Stay</name>
+        <location>New York</location>
+        <cost>220</cost>
+        <roomsAvailable>4</roomsAvailable>
+        <responseTime>1</responseTime>
+        <roomType>Single</roomType>
+        <date>2024-12-01</date>
+        <numberOfGuests>2</numberOfGuests>
+    </hotel>
+    <hotel>
+        <name>Luxury Suites</name>
+        <location>Los Angeles</location>
+        <cost>300</cost>
+        <roomsAvailable>3</roomsAvailable>
+        <responseTime>2</responseTime>
+        <roomType>Double</roomType>
+        <date>2024-12-10</date>
+        <numberOfGuests>2</numberOfGuests>
+    </hotel>
+    <hotel>
+        <name>Seaside Hotel</name>
+        <location>Miami</location>
+        <cost>250</cost>
+        <roomsAvailable>7</roomsAvailable>
+        <responseTime>1</responseTime>
+        <roomType>Suite</roomType>
+        <date>2024-12-02</date>
+        <numberOfGuests>2</numberOfGuests>
+    </hotel>
+    <hotel>
+        <name>Royal Palace Hotel</name>
+        <location>London</location>
+        <cost>350</cost>
+        <roomsAvailable>1</roomsAvailable>
+        <responseTime>4</responseTime>
+        <roomType>Double</roomType>
+        <date>2024-12-01</date>
+        <numberOfGuests>3</numberOfGuests>
+    </hotel>
+    <hotel>
+        <name>Beachfront Resort</name>
+        <location>Hawaii</location>
+        <cost>400</cost>
+        <roomsAvailable>3</roomsAvailable>
+        <responseTime>3</responseTime>
+        <roomType>Suite</roomType>
+        <date>2024-12-01</date>
+        <numberOfGuests>4</numberOfGuests>
+    </hotel>
+    <hotel>
+        <name>Snowy Mountain Lodge</name>
+        <location>Colorado</location>
+        <cost>250</cost>
+        <roomsAvailable>5</roomsAvailable>
+        <responseTime>2</responseTime>
+        <roomType>Single</roomType>
+        <date>2024-12-05</date>
+        <numberOfGuests>2</numberOfGuests>
+    </hotel>
+</hotels>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vms>
+    <vm>
+        <id>VM1</id>
+        <cpu>2</cpu>
+        <ram>4</ram>
+        <storage>100</storage>
+        <status>Idle</status>
+        <cost>0.02</cost>
+    </vm>
+    <vm>
+        <id>VM2</id>
+        <cpu>4</cpu>
+        <ram>8</ram>
+        <storage>200</storage>
+        <status>In Use</status>
+        <cost>0.05</cost>
+    </vm>
+    <vm>
+        <id>VM3</id>
+        <cpu>8</cpu>
+        <ram>16</ram>
+        <storage>500</storage>
+        <status>Idle</status>
+        <cost>0.10</cost>
+    </vm>
+    <vm>
+        <id>VM4</id>
+        <cpu>2</cpu>
+        <ram>4</ram>
+        <storage>50</storage>
+        <status>In Use</status>
+        <cost>0.02</cost>
+    </vm>
+    <vm>
+        <id>VM5</id>
+        <cpu>4</cpu>
+        <ram>8</ram>
+        <storage>300</storage>
+        <status>Idle</status>
+        <cost>0.06</cost>
+    </vm>
+</vms>
